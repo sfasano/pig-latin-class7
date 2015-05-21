@@ -1,5 +1,5 @@
 body {
-  font-family: sans-serif;;
+  font-family: sans-serif;
   color: #aaa;
 }
 
@@ -21,7 +21,7 @@ h1 {
   background: whitesmoke;
 }
 
-#submit-button {
+#first-button, #second-button {
   font-size: 20px;
   width: 400px;
   height: 40px;
